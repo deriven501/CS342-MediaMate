@@ -2,7 +2,7 @@ MediaMate
 
 Griffin Hoffman, Brittany Orozco, Noah Reneau, Ryan Turner, David Nghiem 
 
-CSCI 342: Web Scripting
+Final project from CSCI 342: Web Scripting
 
 About:
 The name of our web application is called MediaMate. Inspired by similar websites such as
