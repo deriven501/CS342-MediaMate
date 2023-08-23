@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Special+Elite');
+@import url('https://fonts.googleapis.com/css?family=Suwannaphum');
+@import url('https://fonts.googleapis.com/css?family=Prata');
+
+.Library{
+    background-color: #2f3245;
+    background-size: contain;
+    background-image: url("background.jpg");
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background-image: url("blue-textured-background.jpg");
+}
+
+h1{
+    padding-top: 50px;
+    -webkit-text-stroke: 0.1px aliceblue;
+    font-family: "Prata", sans-serif;
+    color: aliceblue;
+    font-size: 60px;
+}
+
+.MuiCardContent-root.css-46bh2p-MuiCardContent-root {
+    font-family: "Special Elite", sans-serif;
+    box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.1);
+  }
+
+.MuiTypography-root.MuiTypography-h5.MuiTypography-gutterBottom.css-h93ljk-MuiTypography-root{
+    font-family: "Special Elite", sans-serif;
+    color: #2f3245
+}
+
+.MuiTypography-root.MuiTypography-h5.MuiTypography-gutterBottom.css-h93ljk-MuiTypography-root:hover{
+    color: lightsteelblue
+}
+
+.MuiTypography-root.MuiTypography-body2.css-r40f8v-MuiTypography-root{
+    font-family: "Suwannaphum", sans-serif;
+}
+
+.MuiGrid-root.MuiGrid-item.css-13i4rnv-MuiGrid-root{
+    margin-top: 5%;
+}
